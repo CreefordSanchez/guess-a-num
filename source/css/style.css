@@ -50,7 +50,7 @@ main {
 
 .count-guesses {
   font-weight: 600;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .guess-circle {
@@ -78,7 +78,7 @@ form {
 input {
   text-align: center;
   outline: none;
-  font-size: 20px;
+  font-size: 25px;
   width: 95px;
   border: none;
   background-color: #fff;
