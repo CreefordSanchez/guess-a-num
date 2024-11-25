@@ -3,7 +3,7 @@
 function listener(selector, event, callBack) {
   return selector.addEventListener(event, callBack);
 }
-
+//
 function selector(selector) {
   return document.querySelector(selector);
 }
